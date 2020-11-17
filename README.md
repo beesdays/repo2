@@ -1,2 +1,8 @@
-# repo1
-this is a demo repo
+# Beesdays1
+
+## Instructions for Builds
+
+```bash
+mvn clean install
+```
+
